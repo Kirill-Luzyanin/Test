@@ -15,6 +15,7 @@ public class Main {
         Person p1 = new Person("Kirill", "Petrov", 35);
         Person p2 = new Person("Ivan", "Ivanov", 45);
         Person p3 = new Person("Olga", "Vasileva", 22);
+        Person p4 = new Person("Olga", "Vasileva", 2222222);
 
         Account account1 = new Account("DE4545", p1);
         Account account2 = new Account("ES1111", p1);
