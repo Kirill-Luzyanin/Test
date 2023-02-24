@@ -23,6 +23,7 @@ public class Main {
         Account account4 = new Account("FR3333", p2);
         Account account5 = new Account("DE8888", p3);
         Account account6 = new Account("RU4343", p3);
+        Account account7 = new Account("RU4343", p3);
 
         Transaction transaction1 = new Transaction(account1, account2, 2_000.00);
         Transaction transaction2 = new Transaction(account1, account5, 5_000.45);
